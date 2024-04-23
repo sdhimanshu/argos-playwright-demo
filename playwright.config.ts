@@ -14,7 +14,7 @@ const config: PlaywrightTestConfig = {
         // Enable upload to Argos only when it runs on CI.
         uploadToArgos: true,
         // Set your Argos token (required only if you don't use GitHub Actions).
-        token: "aaebb5525c333775c049c2acd182a4097e010190",
+        token: "1d2f26f350be034842be31a9f85cb04ec1259a7d",
       },
     ],
   ],
